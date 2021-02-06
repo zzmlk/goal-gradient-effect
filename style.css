@@ -1,0 +1,22 @@
+#exCircle{
+    margin:0 auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    background-color: blue;
+
+   
+}
+
+#inCircle{
+	margin:0 auto;  
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: lightblue;
+   
+    
+}
+
+ 
