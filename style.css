@@ -1,9 +1,48 @@
-.container {
-    margin: auto;
+body {
+    margin: 0 auto;
 }
 
 .circle {
-    width: 300px;
-    height:300px;
+    height: 500px;
+    width: 500px;
     background-color: lightcoral;
+}
+
+.circle2 {
+    height: 450px;
+    width:450px;
+    background-color: lightpink;
+}
+
+.circle3 {
+    height: 400px;
+    width: 400px;
+    background-color: lightsalmon;
+
+}
+
+.circle4 {
+    height: 350px;
+    width: 350px;
+    background-color: lightskyblue;
+}
+
+.circle5 {
+    height: 300px;
+    width: 300px;
+    background-color: lightyellow;
+}
+
+
+.circle6 {
+    height: 250px;
+    width: 250px;
+    background-color:lightpink;
+}
+
+.circle7 {
+    height: 200px;
+    width: 200px;
+    background-color: lightsalmon;
+
 }
